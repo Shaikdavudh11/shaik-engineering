@@ -1,4 +1,4 @@
-# Shaik Davudh portfolio
+ Shaik Davudh portfolio
 
 Single-file static portfolio. Publish `index.html` at the repository root with GitHub Pages. The page has no runtime dependencies or external assets.
 
